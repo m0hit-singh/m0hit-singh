@@ -2,7 +2,7 @@
   <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-💬 Ask me about React, Angular, Node.js, JavaScript, TypeScript 🙌.  
+💬 Ask me about React, Angular, Java, Node.js, JavaScript, TypeScript 🙌.  
 <br />
 
 ## 🚀 Languages and Tools
@@ -30,6 +30,8 @@
 ### 👉 Back-end
 
 <p>
+<img alt="JAVA" src="https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Spring Boot" src="https://img.shields.io/badge/Springboot-%2308000.svg?style=for-the-badge&logo=spring%20boot&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </p>
